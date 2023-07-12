@@ -1,3 +1,3 @@
 # simulation_project
 
-Data simulation and statistical analyses in R
+Data simulation and statistical analyses in R, exploring multiple linear regression models
